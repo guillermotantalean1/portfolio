@@ -5,6 +5,12 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --background: #FFF8FE; /* Snow */
+  --foreground: #565254; /* Davy's Gray */
+  --card-bg: #D0CFCF; /* Timberwolf */
+  --border-color: #7A7D7D; /* Gray */
+  --button-bg: #7A7D7D; /* Gray */
+  --button-text: #FFFFFF; /* White */
 }
 
 @media (prefers-color-scheme: dark) {
