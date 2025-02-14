@@ -1,6 +1,5 @@
 import "./globals.css";
 import Navbar from "../components/Navbar";
-import Projects from "../components/Projects";
 
 export const metadata = {
   title: "Guillermo T.",
